@@ -11,8 +11,8 @@ basic:
 
 contact:
   location: Dublin, Ireland  # location, text or markdown link syntax
-  email: seanglennon90@gmail.com     # email address
-  phone: +353-87-918-2255  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  email: nonr@gmail.com     # email address
+  phone: +353-12-333-4455  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
   gender:                   # gender or pronoun
   birthday:                 # birthday
